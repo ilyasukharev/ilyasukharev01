@@ -1,16 +1,20 @@
-### Hi there 👋
+[![Header](https://github.com/IlyaSukharev01/ilyasukharev01/blob/main/source/back2_animation.gif)](https://vk.com/ilyasuperhero)
 
-<!--
-**IlyaSukharev01/ilyasukharev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Student, Java beginner developer ^_^
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+
+![Java](https://img.shields.io/badge/-Java-5918FF?style=for-the-badge&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-1818FF?style=for-the-badge&logo=Spring)
+![Sql](https://img.shields.io/badge/-SQL-18A0FF?style=for-the-badge&logo=Sql)
+![C++](https://img.shields.io/badge/-Cpp-C%2b%2b?style=for-the-badge&logo=C++)
+![Python](https://img.shields.io/badge/-Python-18FFF8?style=for-the-badge&logo=Python)
+
+### Social networks
+
+
+[![VK](https://img.shields.io/badge/-VK-225957?style=for-the-badge&logo=Vk)](https://vk.com/ilyasuperhero)
+[![Telegram](https://img.shields.io/badge/-Telegram-225159?style=for-the-badge&logo=Telegram)](https://t.me/anteiku13)
+

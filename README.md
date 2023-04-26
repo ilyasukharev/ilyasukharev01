@@ -1,6 +1,6 @@
 [![Header](https://github.com/IlyaSukharev01/ilyasukharev01/blob/main/source/back2_animation.gif)](https://vk.com/ilyasuperhero)
 
-## Student, Java beginner developer ^_^
+## Student, Java BACKEND Trainee developer
 
 
 ### Technologies

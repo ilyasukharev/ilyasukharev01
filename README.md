@@ -15,6 +15,6 @@
 ### Social networks
 
 
-[![VK](https://img.shields.io/badge/-VK-225957?style=for-the-badge&logo=Vk)](https://vk.com/ilyasuperhero)
+[![VK](https://img.shields.io/badge/-VK-225957?style=for-the-badge&logo=Vk)](https://vk.com/anteiku13)
 [![Telegram](https://img.shields.io/badge/-Telegram-225159?style=for-the-badge&logo=Telegram)](https://t.me/anteiku13)
 
